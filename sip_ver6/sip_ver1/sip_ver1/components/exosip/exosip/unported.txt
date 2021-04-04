@@ -1,1 +1,0 @@
-struct osip_naptr *eXosip_dnsutils_naptr(const char *domain, const char *protocol, const char *transport, int keep_in_cache);
